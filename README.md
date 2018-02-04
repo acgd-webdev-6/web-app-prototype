@@ -26,7 +26,6 @@ You’ve already completed the UX component of the project so you already know e
 *It’s up to you & your team to code every necessary piece of functionality.*
 
 - A user should be able to click everything and the expected thing should occur.
-  <br>Some examples:
   - If a user adds a book, they should be able to enter all the details & save, but a new book doesn’t need to show up.
   - If a user rates a book, there should be some kind of visual feedback.
   - Each navigation item & each button should pretend to perform the expected behavior.
