@@ -8,20 +8,22 @@ deliverables: 'A web app prototype'
 
 ## Overview
 
-Throughout the term you’ll be working on teams to make a small web app prototype. This—the second, larger—part of the project is to code a seemingly fully functional web application prototype.
+Throughout the term you’ll be working on teams to make a small web app prototype. This—the second, larger—part of the project is to design a pattern library and code a seemingly fully functional web application prototype.
 
 - One team member is the dev lead, they will be the guide, but everybody must contribute.
 - Team contributions should be logged on GitHub for assessment purposes.
 - Follow the standardized Agile Sprint framework.
 - *It does not have to **actually** work, just appear to work.*
 
-**The ultimate goal is to create a functional prototype that could be handed off to a developer who will hook all the pieces together.** Something that could be reliably user tested with out confusing “it’s not working” looks.
+**The ultimate goal is to create a pattern library & functional prototype that could be handed off to a developer who will hook all the pieces together.** A prototype that could be reliably user tested with out confusing “it’s not working” looks.
 
 ---
 
 ## Details
 
-You’ve already completed the UX component of the project so you already know every screen necessary & how they’ll look responsively on all different screen sizes.
+You’ve already completed the UX component of the project so you already know every screen and component necessary & how they’ll look responsively on all different screen sizes.
+
+**Start with a pattern library to design & code each component—this works very well on teams because each person can code different components.**
 
 *It’s up to you & your team to code every necessary piece of functionality.*
 
@@ -47,7 +49,7 @@ Since this is a team project it will be coded by everybody. We’ve already set 
   - Use lots of CSS files
   - Consider using something like a pattern library
   - Consider scoped classes, classes that are prefixed to their pattern
-  - **The smaller the chunks of code the easier it is to manage**
+  - **The smaller the chunks of code the easier it is to manage—thinking and working as a pattern library helps**
   - *Try to avoid editing the same files at the same time as a team member—though it shouldn’t be a major problem, it does remind you to break everything into small pieces*
 - Every small chunk of code that needs to be completed should have the following things:
   - A correctly labeled Issue assigned the a *single* person, sprint & milestone
